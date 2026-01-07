@@ -1,0 +1,28 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  text-align: center;
+  background: #111;
+  color: white;
+}
+
+#battle {
+  margin-top: 40px;
+}
+
+button {
+  font-size: 16px;
+  padding: 15px 20px;
+  margin: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+#left {
+  background: #ff4d4d;
+  color: white;
+}
+
+#right {
+  background: #4d79ff;
+  color: white;
+}
